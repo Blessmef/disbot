@@ -1,1 +1,3 @@
 # disbot
+
+Run it yourself😃

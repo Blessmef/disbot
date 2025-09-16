@@ -1,0 +1,35 @@
+{
+  "name": "disbotorganised",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server-start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@coffeeandfun/google-profanity-words": "^1.0.4",
+    "body-parser": "^1.20.1",
+    "color-extr-thief": "^2.3.4",
+    "cors": "^2.8.5",
+    "cross-fetch": "^3.1.5",
+    "discord.js": "^14.7.1",
+    "dominant-color": "^0.0.1",
+    "dotenv": "^16.0.3",
+    "downloadjs": "^1.4.7",
+    "express": "^4.18.2",
+    "fast-average-color-node": "^2.6.0",
+    "get-image-colors": "^4.0.1",
+    "mineflayer": "^4.8.1",
+    "mineflayer-pathfinder": "^2.4.2",
+    "node-fetch": "^3.3.0",
+    "node-gyp": "^9.3.1",
+    "node-vibrant": "^3.2.1-alpha.1",
+    "profanity-finder": "^1.0.2",
+    "washyourmouthoutwithsoap": "^1.0.2",
+    "websocket": "^1.0.34",
+    "ytdl-core": "^4.11.2"
+  }
+}
